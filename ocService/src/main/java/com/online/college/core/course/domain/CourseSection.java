@@ -7,4 +7,5 @@ package com.online.college.core.course.domain;
  * comment: 课程章节实体类
  */
 public class CourseSection {
+
 }
